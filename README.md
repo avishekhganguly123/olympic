@@ -15,3 +15,5 @@ Here's what you can see:
 - Dive Deeper: Play around with the charts and maps to zoom in on specific details. You can filter by things like year, country, medal type, gender, and even age groups.
 - Top Performers: See who the top 5 athletes are based on your chosen filters.
 This dashboard makes it super easy to learn about the Olympics and see all the interesting patterns in the data.
+
+![Dashboard](https://github.com/avishekhganguly123/olympic/blob/7af0694a3b383aaa0e188d89136282a11c730cf4/olympic_data.png)
