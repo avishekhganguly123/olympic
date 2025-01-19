@@ -4,7 +4,6 @@ We explore how countries perform, analyze athlete characteristics like age and g
 The dashboard uses eye-catching visuals to reveal fascinating insights, from which countries dominate to how medal counts vary across genders and age groups.
 It's a powerful tool for understanding the many dimensions of the Olympic Games.
 # Overview
-Here's the description of the Olympic dashboard rewritten in your own words:
 
 This dashboard is like a playground for exploring the Olympics! It lets you click around and see all sorts of cool information about the games. You can see how many medals each country has won, where the athletes come from (age and gender), and how medals are shared between men and women. Everything is shown in fancy charts and maps that are easy to understand, even if you're not a data whiz.
 
